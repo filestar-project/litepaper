@@ -1,3 +1,5 @@
+![filestar logo](./logo.png)
+
 # FileStar Project Litepaper 文曲星项目 白皮书初稿  
 
 ***A Web3.0 Decentralized Storage，Verifiable Computation，Mensurable Bandwidth Physical Infrastructure***
