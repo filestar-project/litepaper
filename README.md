@@ -1,8 +1,9 @@
-# FileStar Project Litepaper
-A Web3.0 Decentralized Storage，Verifiable Computation，Mensurable Bandwidth Physical Infrastructure
+# FileStar Project Litepaper 文曲星项目 白皮书初稿  
 
-文曲星项目 白皮书初稿  
-搭建Web3.0的分布式存储、可验证计算、可度量带宽 物理世界基础设施
+***A Web3.0 Decentralized Storage，Verifiable Computation，Mensurable Bandwidth Physical Infrastructure***
+
+
+***搭建Web3.0的分布式存储、可验证计算、可度量带宽 物理世界基础设施***
 
 ## 摘要
 我们认为区块链世界遇到了巨大的发展瓶颈，只能依赖巨大的技术创新来推动区块链行业摆脱目前的困境。2009年中本聪发布了比特币的白皮书，开启了一个基于互联网的免信任的电子现金的时代，受制于比特币网络的处理能力，比特币已经从最初的电子现金的愿景偏离，并被历史的车轮推到了电子黄金的地位。以太坊在比特币的思想上，赋予了转账 交易更多的灵活性和可编程性，引入了智能合约虚拟机的概念，通过提供不同于脚本语言的更强大的处理能力，以太坊取得了蓬勃的发展，但是依然面临巨大的发展制约。
