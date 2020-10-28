@@ -174,7 +174,7 @@ Unlike storage-centric Filecoin, FileStar will incentivize participants to provi
 
 ## Contact Us
 
-* Official website: filestar.net
+* Official website: https://filestar.net
 * Developer: dev@filestar.net
 * Media: media@filestar.net
 
