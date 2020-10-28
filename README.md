@@ -1,4 +1,4 @@
-![filestar logo](../logo.png)
+![filestar logo](./logo.png)
 
 # FileStar Project Litepaper 文曲星项目 白皮书初稿  
 
