@@ -141,7 +141,7 @@ FileStar 采用了更加公平的代币分发规则以及去中心化社区治�
 ## 社区
 
 * github：https://github.com/filestar-project
-* slack：https://o8.cn/efGRyO
+* slack：https://join.slack.com/t/filestarworkspace/shared_invite/zt-infr76dh-S3m3SwbjMTMAXIUUU54efw
 * twitter：https://twitter.com/FileStarProject
 * Telegram：https://t.me/filestarofficial
 * 微信：filestarofficial
