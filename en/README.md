@@ -181,7 +181,7 @@ Unlike storage-centric Filecoin, FileStar will incentivize participants to provi
 ## Community
 
 * github：https://github.com/filestar-project
-* slack：https://o8.cn/efGRyO
+* slack：https://join.slack.com/t/filestarworkspace/shared_invite/zt-infr76dh-S3m3SwbjMTMAXIUUU54efw
 * twitter：https://twitter.com/FileStarProject
 * Telegram：https://t.me/filestarofficial
 * WeChat：filestarofficial
