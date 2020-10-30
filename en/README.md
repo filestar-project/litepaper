@@ -137,9 +137,9 @@ The total supply of STAR tokens is 2,000,000,000 STAR, with no fundraising and n
 	* 10% to other valuable miners, such as zero-knowledge proof services, AI, big data, which will be decided by the community
 
 * 30% to long-term community participants 
-	* 15% to the FileStar Foundation, 5-year vesting; 
+	* 15% to the FileStar Foundation, 5-year vesting from one year after mainnet launch; 
 	* 7% to community developers
-	* 5% to projects and apps in the FileStar ecosystem, 5-year vesting;
+	* 5% to projects and apps in the FileStar ecosystem;
 	* 1% to media & community
 	* 1% to exchanges and wallets that support FileStar
 	* 1% to legal and compliance 
